@@ -7,6 +7,7 @@ public class Sunny {
 	int sf;
 	int master;
 	int local;
+	int kul;
 	
 
 }
