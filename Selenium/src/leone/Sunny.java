@@ -6,7 +6,7 @@ public class Sunny {
 	int b;
 	int sf;
 	int master;
-	
+	int local;
 	
 
 }
